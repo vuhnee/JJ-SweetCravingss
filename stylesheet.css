@@ -732,7 +732,7 @@
             }
         }        
 @media (max-width: 768px) {
-  .carousel-item {
+  .carouselExample {
     width: 100%;
     height: auto;
   }
