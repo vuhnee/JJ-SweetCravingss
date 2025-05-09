@@ -732,7 +732,7 @@
             }
         }        
 @media (max-width: 768px) {
-  .bannerdiv {
+  .carousel-item {
     width: 100%;
     height: auto;
   }
